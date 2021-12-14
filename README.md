@@ -1,0 +1,2 @@
+# netology-python
+Python homeworks
